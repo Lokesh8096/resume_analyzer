@@ -1,0 +1,4 @@
+MAX_BATCH_SIZE = 50
+MIN_TEXT_LENGTH = 100
+MODEL_NAME = "mistral-large-latest"
+TEMPERATURE = 0
